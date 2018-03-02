@@ -1,0 +1,55 @@
+.List{
+  color: #333;
+  background-color: rgba(255,255,255,.5);
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.Favourites{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #0066FF;
+  color: #FFF;
+  border: 2px solid #0066FF;
+  
+}
+
+
+.Favourites:hover {
+  background-color: #003399;
+  border: 2px solid #003399;
+  cursor: pointer;
+}
+
+.Delete{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #d9534f;
+  color: #FFF;
+  border: 2px solid #d9534f;
+
+}
+
+.Delete:hover{
+  background-color: red;
+  border: 2px solid red;
+  cursor: pointer;
+}
+
+
+
+.ShowJokes{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #d9534f;
+  color: #FFF;
+  border: 2px solid #d9534f;
+  width: 100%
+}

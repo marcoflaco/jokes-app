@@ -1,0 +1,16 @@
+.Button {
+  background-color: yellow;
+  cursor: pointer;
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #d9534f;
+  color: #FFF;
+  border: 2px solid #d9534f;
+  text-align: center;
+
+  &.disabled {
+    background-color: black;
+  }
+}
